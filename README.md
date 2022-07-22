@@ -21,4 +21,4 @@ Kendimi geliştirmek için sürekli çalışma halindeyim.Kodluyoruzun verdiği 
 ## Sevdiğim Dizi
 ![Sherlock Holmes](1.jpeg)
 
-Sherlock, Mark Gatiss tarafından televizyon için geliştirilen Sir Arthur Conan Doyle'ın aynı adı taşıyan romanlarına dayalı dedektif dizisi.
+ Sherlock dizisi gerilim türünde oldukça fazla sevilmekte olan bir dizidir.  Bütün gerçekleşen olaylarda detayları oldukça iyi gözlemleyen ve çözme yeteneğine sahip olan dedektif olayların aydınlatılması ile bilinen bir dizidir.
