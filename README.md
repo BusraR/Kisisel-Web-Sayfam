@@ -21,4 +21,4 @@ Kendimi geliştirmek için sürekli çalışma halindeyim.Kodluyoruzun verdiği 
 ## Sevdiğim Dizi
 ![Sherlock Holmes](1.jpeg)
 
- Sherlock dizisi gerilim türünde oldukça fazla sevilmekte olan bir dizidir.  Bütün gerçekleşen olaylardadetayları oldukça iyi gözlemleyen ve çözme yeteneğine sahip olan dedektif olayların aydınlatılması ile bilinen bir dizidir.
+ Sherlock dizisi gerilim türünde oldukça fazla sevilmekte olan bir dizidir.  Bütün gerçekleşen olaylarda detayları oldukça iyi gözlemleyen ve çözme yeteneğine sahip olan dedektif olayların aydınlatılması ile bilinen bir dizidir.
